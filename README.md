@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏠 Developer in São Paulo, Brazil<br><br>👩🏼‍💻 Computer Science Student at IFSP (Instituto Federal de São Paulo) (6/8)<br><br>🌱 Committed to expanding my knowledge and skills, always looking for stimulating challenges and new discoveries.</p>
+<p align="left">🏠 Developer in São Paulo, Brazil<br><br>👩🏼‍💻 Computer Science Student at IFSP (Instituto Federal de São Paulo) (7/8)<br><br>🌱 Committed to expanding my knowledge and skills, always looking for stimulating challenges and new discoveries.</p>
 
 ###
 <div align="center">
